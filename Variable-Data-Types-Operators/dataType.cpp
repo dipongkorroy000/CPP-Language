@@ -24,7 +24,7 @@ int main()
     // bool booleanData = true;
     // cout << booleanData << endl;
 
-    // double price = 100.256;
-    // cout << price << endl;
+    double price = 100.256;
+    cout << price << endl;
     return 0;
 }
